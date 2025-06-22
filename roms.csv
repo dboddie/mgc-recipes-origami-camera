@@ -1,3 +1,5 @@
 Status,Name,Publisher,UEF,ROMs,Options,URL,Files
 OK,Frak,Aardvark,FrakV2_E.uef,Frak-1.rom Frak-2.rom,-a -B e00 -c e00/: -s -p1,https://www.stairwaytohell.com/electron/uefarchive/Aardvark/FrakV2_E.zip,FrakV2_E.uef
 OK,Zalaga,Aardvark,Zalaga-ALRR_E.uef,Zalaga-1.rom Zalaga-2.rom,-a -B e00 -c e00:/: -s -p1,http://www.stairwaytohell.com/electron/uefarchive/Alternative/Zalaga-ALRR_E.zip,Zalaga-ALRR_E.uef
+OK,Frak (workspace 39f),Aardvark,FrakV2_E.uef,Frak39f-1.rom Frak39f-2.rom,-a -B e00 -c e00/: -s -w 39f -p1,https://www.stairwaytohell.com/electron/uefarchive/Aardvark/FrakV2_E.zip,FrakV2_E.uef
+OK,Frak (no compression),Aardvark,FrakV2_E.uef,FrakNC-1.rom FrakNC-2.rom,-a -B e00 -s -p1,https://www.stairwaytohell.com/electron/uefarchive/Aardvark/FrakV2_E.zip,FrakV2_E.uef
