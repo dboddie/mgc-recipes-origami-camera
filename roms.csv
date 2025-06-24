@@ -1,5 +1,8 @@
 Status,Name,Publisher,UEF,ROMs,Options,URL,Files
-OK,Frak,Aardvark,FrakV2_E.uef,Frak-1.rom Frak-2.rom,-a -B e00 -c e00/: -s -p1,https://www.stairwaytohell.com/electron/uefarchive/Aardvark/FrakV2_E.zip,FrakV2_E.uef
-OK,Zalaga,Aardvark,Zalaga-ALRR_E.uef,Zalaga-1.rom Zalaga-2.rom,-a -B e00 -c e00:/: -s -p1,http://www.stairwaytohell.com/electron/uefarchive/Alternative/Zalaga-ALRR_E.zip,Zalaga-ALRR_E.uef
-OK,Frak (workspace 39f),Aardvark,FrakV2_E.uef,Frak39f-1.rom Frak39f-2.rom,-a -B e00 -c e00/: -s -w 39f -p1,https://www.stairwaytohell.com/electron/uefarchive/Aardvark/FrakV2_E.zip,FrakV2_E.uef
-OK,Frak (no compression),Aardvark,FrakV2_E.uef,FrakNC-1.rom FrakNC-2.rom,-a -B e00 -s -p1,https://www.stairwaytohell.com/electron/uefarchive/Aardvark/FrakV2_E.zip,FrakV2_E.uef
+Skip,Frak,Aardvark,FrakV2_E.uef,Frak-1.rom Frak-2.rom,-a -B e00 -c e00/: -s -p1,https://www.stairwaytohell.com/electron/uefarchive/Aardvark/FrakV2_E.zip,FrakV2_E.uef
+Skip,Zalaga,Aardvark,Zalaga-ALRR_E.uef,Zalaga-1.rom Zalaga-2.rom,-a -B e00 -c e00:/: -s -p1,http://www.stairwaytohell.com/electron/uefarchive/Alternative/Zalaga-ALRR_E.zip,Zalaga-ALRR_E.uef
+Skip,Frak (workspace 39f),Aardvark,FrakV2_E.uef,Frak39f-1.rom Frak39f-2.rom,-a -B e00 -c e00/: -s -w 39f -p1,https://www.stairwaytohell.com/electron/uefarchive/Aardvark/FrakV2_E.zip,FrakV2_E.uef
+Skip,Frak (no compression),Aardvark,FrakV2_E.uef,FrakNC-1.rom FrakNC-2.rom,-a -B e00 -s -p1,https://www.stairwaytohell.com/electron/uefarchive/Aardvark/FrakV2_E.zip,FrakV2_E.uef
+OK,Volcano,Acornsoft,Volcano-E-v2.uef,Volcano.rom,-a -B e00 -c ::400:::1100.1ef7 -r -s -w 39f -p1,https://www.stardot.org.uk/forums/download/file.php?id=48081,Volcano-E-v2.uef
+OK (patched),Omega Orb,Audiogenic,OmegaOrb-EveryGameGoing-fromSSD.uef,OmegaOrb-1.rom OmegaOrb-2.rom,-a -B e00 -c ::60c0:2100:/: -p -s -w 39f,https://www.everygamegoing.com/download/electron/atlantis/5_25_discs/Omega-Orb.zip,HD-OMEG.ssd
+Broken,Aabatron,Bevan Technology,Aabatron.uef,Aabatron-1.rom Aabatron-2.rom,-a -B 1d00 -c 1d00:/: -s,https://www.everygamegoing.com/download/electron/bevan/5_25_discs/Aabatron.zip,Aabatron.ssd
