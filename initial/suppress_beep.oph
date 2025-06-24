@@ -1,0 +1,6 @@
+initial:
+    ; Zero length bell duration
+    lda #214
+    ldx #0
+    ldy #0
+    jmp $fff4
